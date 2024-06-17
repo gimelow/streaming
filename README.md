@@ -1,2 +1,12 @@
 # streaming
-Streaming simples (podcasts e episódios, artistas, álbuns e músicas) utilizando orientação a objetos em C#
+
+Orientação a Objetos em C#.
+Conhecimentos aplicados:
+-Trabalhando com listas, dicionários e outros tipos de coleções
+- Classes
+- Objetos
+- Encapsulamento e visibilidade de membros
+- Definição de propriedades e métodos
+- Relacionamento entre classes
+- Construtores
+- Funções lambda
