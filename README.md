@@ -1,7 +1,9 @@
 # streaming
 
-Orientação a Objetos em C#.
+*Orientação a Objetos em C#*
+
 Conhecimentos aplicados:
+
 -Trabalhando com listas, dicionários e outros tipos de coleções
 - Classes
 - Objetos
