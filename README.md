@@ -4,9 +4,9 @@
 
 Conhecimentos aplicados:
 
--Trabalhando com listas, dicionários e outros tipos de coleções
 - Classes
 - Objetos
+- Trabalhando com listas, dicionários e outros tipos de coleções
 - Encapsulamento e visibilidade de membros
 - Definição de propriedades e métodos
 - Relacionamento entre classes
